@@ -1,7 +1,3 @@
-//
-// Created by Toam Elharar on 26/11/2022.
-//
-
 #include "Player.h"
 
 Player::Player():id(0),team(nullptr), num_of_games_played(0),goals(0), cards(0), goal_keeper_status(false),closest_left(
