@@ -1,6 +1,3 @@
-//
-// Created by Toam Elharar on 26/11/2022.
-//
 
 #include "Team.h"
 
