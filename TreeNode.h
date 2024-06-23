@@ -1,6 +1,4 @@
-//
-// Created by shaha on 29/11/2022.
-//
+
 
 #ifndef WET1_TREENODE_H
 #define WET1_TREENODE_H
