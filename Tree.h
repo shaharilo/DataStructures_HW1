@@ -1,6 +1,3 @@
-//
-// Created by shaha on 29/11/2022.
-//
 
 #ifndef WET1_TREE_H
 #define WET1_TREE_H
