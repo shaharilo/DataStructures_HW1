@@ -1,6 +1,3 @@
-//
-// Created by shaha on 02/12/2022.
-//
 
 #include "PlayersTree.h"
 
